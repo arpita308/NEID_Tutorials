@@ -1,2 +1,2 @@
-# NEID_Tutorials
+# NEID Tutorials
 
