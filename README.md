@@ -2,4 +2,4 @@
 
 # NEID Tutorials
 
-These are a series of notebooks demonstarting basic handling of NEID data. 
+These are a series of notebooks demonstrating basic handling of NEID data. 
